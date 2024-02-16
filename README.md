@@ -1,0 +1,2 @@
+# My-way-in-data-analysis
+## Soy una chia egresda de la facultad de ciencias fisico matematicas de la BUAP y dada mi formacion me es posible incursionar en diferntes areas en mi caso me ha interesado el analisis de datos para ello he tomado algunos cursos en los que he usado sofware como Exel inclulyendo Power Query, Power BI, ACCES y Python este camino me ha llevado a conocer Github una gran plataforma para praticar diferentes lenguajes de progamacion y trabajo cooperativo 
