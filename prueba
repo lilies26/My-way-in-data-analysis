@@ -1,1 +1,4 @@
-import numpy as nu
+import numpy as np
+impor pandas as pd
+
+nombre_columnas=['color',
